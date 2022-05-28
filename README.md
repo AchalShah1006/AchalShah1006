@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 I'm **Achal Shah**, a Software Engineer from **India** <img src="https://upload.wikimedia.org/wikipedia/en/4/41/Flag_of_India.svg" width="24" /> .
 
 <p>
- <img src ="https://github-readme-stats.vercel.app/api?username=AchalShah1006&layout=compact&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues&title_color=30AADD&icon_color=7858A6&bg_color=00000000"><img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=AchalShah1006&layout=compact&hide_border=true&theme=darcula&langs_count=6&hide=jupyter%20notebook,tex,css,php&title_color=30AADD&icon_color=7858A6&bg_color=00000000"> 
+ <img src ="https://github-readme-stats.vercel.app/api?username=AchalShah1006&layout=compact&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues&text_color=30AADD&title_color=8BDB81&icon_color=FC28FB&bg_color=00000000"><img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=AchalShah1006&layout=compact&hide_border=true&theme=darcula&langs_count=6&hide=jupyter%20notebook,tex,css,php&text_color=30AADD&title_color=8BDB81&icon_color=FC28FB&bg_color=00000000"> 
 </p>
 
 <h2>📫 How to reach me: ...</h2>
